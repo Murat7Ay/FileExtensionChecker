@@ -1,6 +1,0 @@
-c:\users\muratay\documents\visual studio 2013\Projects\FileTransfer\FileTransfer\bin\FileTransfer.dll.config
-c:\users\muratay\documents\visual studio 2013\Projects\FileTransfer\FileTransfer\bin\FileTransfer.dll
-c:\users\muratay\documents\visual studio 2013\Projects\FileTransfer\FileTransfer\bin\FileTransfer.pdb
-c:\users\muratay\documents\visual studio 2013\Projects\FileTransfer\FileTransfer\obj\Debug\FileTransfer.csprojResolveAssemblyReference.cache
-c:\users\muratay\documents\visual studio 2013\Projects\FileTransfer\FileTransfer\obj\Debug\FileTransfer.dll
-c:\users\muratay\documents\visual studio 2013\Projects\FileTransfer\FileTransfer\obj\Debug\FileTransfer.pdb
